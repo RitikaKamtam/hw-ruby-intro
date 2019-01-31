@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative '...lib'
+require_relative '../lib/ruby_intro'
 
 describe 'Ruby intro part 1' do
   describe '#sum' do
